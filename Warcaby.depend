@@ -1,0 +1,493 @@
+# depslib dependency file v1.0
+1520883721 source:c:\users\kamil_2\desktop\okienkawindowsc++\warcaby\main.cpp
+	<allegro.h>
+	"pawn.h"
+
+1520859854 h:\codeblocks\allegro-mingw-4.2.0\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1520859854 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/astdint.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\platform\alplatf.h
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\platform\alosxcfg.h
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunixac.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\unicode.h
+	"base.h"
+
+1520859854 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\config.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\debug.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\mouse.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\timer.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\keyboard.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\joystick.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\palette.h
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1520859854 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\fixed.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\platform\al386gcc.h
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\platform\al386vc.h
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\platform\al386wat.h
+
+1520859854 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\inline\color.inl
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1520859854 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\compiled.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\text.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\font.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\gui.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\digi.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\stream.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\midi.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\file.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\lzss.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\datafile.h
+	"base.h"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\inline\matrix.inl
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\quat.h
+	"base.h"
+
+1520859854 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\inline\3dmaths.inl
+
+1520859854 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\alcompat.h
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1520859855 h:\codeblocks\allegro-mingw-4.2.0\include\allegro\inline\fix.inl
+
+1520883875 source:c:\users\kamil_2\desktop\okienkawindowsc++\warcaby\src\pawn.cpp
+	"pawn.h"
+	<iostream>
+	<allegro.h>
+
+1520883185 c:\users\kamil_2\desktop\okienkawindowsc++\warcaby\include\pawn.h
+
+1523471091 source:c:\users\kamil_2\desktop\warcaby\src\pawn.cpp
+	"pawn.h"
+	<iostream>
+	<string.h>
+	<allegro.h>
+
+1523570750 c:\users\kamil_2\desktop\warcaby\include\pawn.h
+	<allegro.h>
+	<cstring>
+	"BoardField.h"
+
+1523475552 source:c:\users\kamil_2\desktop\warcaby\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<cstring>
+	<fstream>
+	"Game.h"
+
+1523440647 c:\users\kamil_2\desktop\warcaby\include\boardfield.h
+	<allegro.h>
+
+1523440647 source:c:\users\kamil_2\desktop\warcaby\src\boardfield.cpp
+	"BoardField.h"
+	<iostream>
+	<allegro.h>
+
+1523471284 source:c:\users\kamil_2\desktop\warcaby\src\mouseandkeyboard.cpp
+	"MouseAndKeyboard.h"
+
+1523471336 c:\users\kamil_2\desktop\warcaby\include\mouseandkeyboard.h
+	<allegro.h>
+	"Button.h"
+	"BoardField.h"
+
+1523568126 source:c:\users\kamil_2\desktop\warcaby\src\movingpawn.cpp
+	"MovingPawn.h"
+	<iostream>
+
+1523567798 c:\users\kamil_2\desktop\warcaby\include\movingpawn.h
+	"BoardField.h"
+	"Pawn.h"
+	"Button.h"
+	"MouseAndKeyboard.h"
+
+1523561106 source:c:\users\kamil_2\desktop\warcaby\src\button.cpp
+	"Button.h"
+	<iostream>
+
+1523471336 c:\users\kamil_2\desktop\warcaby\include\button.h
+	<allegro.h>
+
+1523471091 c:\users\kamil_2\desktop\warcaby\include\npc.h
+	"MovingPawn.h"
+	<iostream>
+
+1523568426 source:c:\users\kamil_2\desktop\warcaby\src\npc.cpp
+	"Npc.h"
+
+1523570153 source:c:\users\kamil_2\desktop\warcaby\src\game.cpp
+	"Game.h"
+
+1523569929 c:\users\kamil_2\desktop\warcaby\include\game.h
+	<allegro.h>
+	<iostream>
+	<fstream>
+	"pawn.h"
+	"BoardField.h"
+	"MouseAndKeyboard.h"
+	"Button.h"
+	"MovingPawn.h"
+	"Npc.h"
+	<Pawn.h>
+
+1523604977 source:c:\users\kamil_2\desktop\warcaby2.0\main.cpp
+	"Game.h"
+
+1524242505 c:\users\kamil_2\desktop\warcaby2.0\include\game.h
+	<allegro.h>
+	"pawn.h"
+	"BoardField.h"
+	"MouseAndKeyboard.h"
+	"MovingPawn.h"
+	<Pawn.h>
+
+1524090658 c:\users\kamil_2\desktop\warcaby2.0\include\pawn.h
+	<allegro.h>
+	"BoardField.h"
+
+1523440647 c:\users\kamil_2\desktop\warcaby2.0\include\boardfield.h
+	<allegro.h>
+
+1523604906 c:\users\kamil_2\desktop\warcaby2.0\include\mouseandkeyboard.h
+	<allegro.h>
+	"Button.h"
+	"BoardField.h"
+
+1523604681 c:\users\kamil_2\desktop\warcaby2.0\include\button.h
+	<allegro.h>
+
+1524254116 c:\users\kamil_2\desktop\warcaby2.0\include\movingpawn.h
+	"BoardField.h"
+	"Pawn.h"
+	"MouseAndKeyboard.h"
+
+1524253732 c:\users\kamil_2\desktop\warcaby2.0\include\npc.h
+	"MovingPawn.h"
+
+1524091551 source:c:\users\kamil_2\desktop\warcaby2.0\src\boardfield.cpp
+	"BoardField.h"
+	<allegro.h>
+
+1524256637 source:c:\users\kamil_2\desktop\warcaby2.0\src\game.cpp
+	<fstream>
+	"Game.h"
+	"Button.h"
+	<time.h>
+	"Npc.h"
+
+1524254004 source:c:\users\kamil_2\desktop\warcaby2.0\src\mouseandkeyboard.cpp
+	"MouseAndKeyboard.h"
+
+1524256447 source:c:\users\kamil_2\desktop\warcaby2.0\src\movingpawn.cpp
+	"MovingPawn.h"
+	"Button.h"
+
+1524256447 source:c:\users\kamil_2\desktop\warcaby2.0\src\npc.cpp
+	"Npc.h"
+
+1524256190 source:c:\users\kamil_2\desktop\warcaby2.0\src\pawn.cpp
+	"pawn.h"
+
+1523570894 source:c:\users\kamil_2\desktop\warcaby2.0\src\button.cpp
+	"Button.h"
+
+1524771982 source:c:\users\kamil_2\desktop\warcaby\warcaby3.0\main.cpp
+	"main.h"
+
+1524242505 c:\users\kamil_2\desktop\warcaby\warcaby3.0\include\game.h
+	<allegro.h>
+	"pawn.h"
+	"BoardField.h"
+	"MouseAndKeyboard.h"
+	"MovingPawn.h"
+	<Pawn.h>
+
+1524090658 c:\users\kamil_2\desktop\warcaby\warcaby3.0\include\pawn.h
+	<allegro.h>
+	"BoardField.h"
+
+1523440647 c:\users\kamil_2\desktop\warcaby\warcaby3.0\include\boardfield.h
+	<allegro.h>
+
+1523604906 c:\users\kamil_2\desktop\warcaby\warcaby3.0\include\mouseandkeyboard.h
+	<allegro.h>
+	"Button.h"
+	"BoardField.h"
+
+1523604681 c:\users\kamil_2\desktop\warcaby\warcaby3.0\include\button.h
+	<allegro.h>
+
+1524254116 c:\users\kamil_2\desktop\warcaby\warcaby3.0\include\movingpawn.h
+	"BoardField.h"
+	"Pawn.h"
+	"MouseAndKeyboard.h"
+
+1524091551 source:c:\users\kamil_2\desktop\warcaby\warcaby3.0\src\boardfield.cpp
+	"BoardField.h"
+	<allegro.h>
+
+1523570894 source:c:\users\kamil_2\desktop\warcaby\warcaby3.0\src\button.cpp
+	"Button.h"
+
+1524256823 source:c:\users\kamil_2\desktop\warcaby\warcaby3.0\src\game.cpp
+	<fstream>
+	"Game.h"
+	"Button.h"
+	<time.h>
+	"Npc.h"
+
+1524253732 c:\users\kamil_2\desktop\warcaby\warcaby3.0\include\npc.h
+	"MovingPawn.h"
+
+1524254004 source:c:\users\kamil_2\desktop\warcaby\warcaby3.0\src\mouseandkeyboard.cpp
+	"MouseAndKeyboard.h"
+
+1524256447 source:c:\users\kamil_2\desktop\warcaby\warcaby3.0\src\movingpawn.cpp
+	"MovingPawn.h"
+	"Button.h"
+
+1524256447 source:c:\users\kamil_2\desktop\warcaby\warcaby3.0\src\npc.cpp
+	"Npc.h"
+
+1524256190 source:c:\users\kamil_2\desktop\warcaby\warcaby3.0\src\pawn.cpp
+	"pawn.h"
+
+1524771937 c:\users\kamil_2\desktop\warcaby\warcaby3.0\include\main.h
+	"Game.h"
+
